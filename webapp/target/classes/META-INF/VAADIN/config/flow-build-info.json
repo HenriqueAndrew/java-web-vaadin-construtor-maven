@@ -1,0 +1,14 @@
+{
+  "productionMode": false,
+  "useDeprecatedV14Bootstrapping": false,
+  "eagerServerLoad": false,
+  "npmFolder": "D:\\Vaadin\\construtor-maven\\webapp",
+  "generatedFolder": "D:\\Vaadin\\construtor-maven\\webapp\\target\\frontend",
+  "frontendFolder": "D:\\Vaadin\\construtor-maven\\webapp\\frontend",
+  "connect.javaSourceFolder": "D:\\Vaadin\\construtor-maven\\webapp\\src\\main\\java",
+  "connect.applicationProperties": "D:\\Vaadin\\construtor-maven\\webapp\\src\\main\\resources\\application.properties",
+  "connect.openApiFile": "D:\\Vaadin\\construtor-maven\\webapp\\target\\generated-resources\\openapi.json",
+  "connect.generated": "D:\\Vaadin\\construtor-maven\\webapp\\frontend\\generated",
+  "pnpm.enable": true,
+  "require.home.node": false
+}
